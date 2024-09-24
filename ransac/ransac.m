@@ -1,4 +1,4 @@
-% RANSACRANSAC (Random Sample Consensus) Algorithm
+% RANSAC (Random Sample Consensus) Algorithm
 % Quiz 2 - Question 2
 %
 % RANSAC is used on images that have been processed with SURF or SIFT or another

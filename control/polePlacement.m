@@ -1,5 +1,5 @@
 % Example from Brian Douglas Video
-% What is Pole Placement (Full State Feedback)
+% What is Pole Placement (Full State Feedback)RANSAC
 % State Space, Part 2 
 
 % Define state matrices
